@@ -1,7 +1,11 @@
 {
-  "main.css": "static/css/main.c17080f1.css",
-  "main.css.map": "static/css/main.c17080f1.css.map",
-  "main.js": "static/js/main.34270c26.js",
-  "main.js.map": "static/js/main.34270c26.js.map",
-  "static\\media\\logo.svg": "static/media/logo.5d5d9eef.svg"
+  "main.css": "static/css/main.aef547a9.css",
+  "main.css.map": "static/css/main.aef547a9.css.map",
+  "main.js": "static/js/main.8d1324e7.js",
+  "main.js.map": "static/js/main.8d1324e7.js.map",
+  "static\\media\\logo.svg": "static/media/logo.ee7cd8ed.svg",
+  "static\\media\\turn-arrow.eot": "static/media/turn-arrow.583ca888.eot",
+  "static\\media\\turn-arrow.svg": "static/media/turn-arrow.43c74a49.svg",
+  "static\\media\\turn-arrow.ttf": "static/media/turn-arrow.bad2eaf2.ttf",
+  "static\\media\\turn-arrow.woff": "static/media/turn-arrow.860e608e.woff"
 }
